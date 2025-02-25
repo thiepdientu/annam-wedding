@@ -59,7 +59,7 @@
 
 .album img {
 
-    aspect-ratio: 1/1;
+  
 
     object-fit: cover;
 
@@ -401,6 +401,11 @@
 
   opacity:1;
 
+}
+
+.timeline-media img {
+    max-width: 120px;
+    object-fit: cover;
 }
 
 .radio-container {

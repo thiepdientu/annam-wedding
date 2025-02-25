@@ -554,7 +554,6 @@ main{
 }
 .timeline-media img{
     max-width: 120px;
-    aspect-ratio: 1/1;
     object-fit: cover;
 }
 .timeline-body {
@@ -587,7 +586,6 @@ main{
     transition: .3s;
     object-fit: cover;
     object-position: center;
-    aspect-ratio: 1/1;
     width: 100%;
     height: 100%;
 }
