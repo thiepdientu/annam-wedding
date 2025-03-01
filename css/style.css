@@ -604,16 +604,20 @@ main{
     text-align: center;
 }
 .invitation-body {
-    background-color: var(--primary-color);
+    background-color: #FADADD;
     width: 100%;
     padding: 24px;
-    color: var(--text-white);
+    color: #2b0909;
     display: grid;
     row-gap: 16px;
 }
 .invitation-title {
     font-size: 24px;
     font-family: var(--script-font);
+}
+
+.uk-ligh .icon{
+    background-color: darkred;
 }
 
 /* BẢN ĐỒ */
